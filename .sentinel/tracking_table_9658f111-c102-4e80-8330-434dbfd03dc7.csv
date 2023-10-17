@@ -1,0 +1,6 @@
+FileName, CommitSha
+Detections/Sample/MalformedUserAgents.json,5b899cb0fba16d1b6aab96883ff985bcc26c5793
+Detections/Sample/PasswordSpray.json,9190e34e9b54db53303efe49488cf5cf8c245b1c
+sentinel-deployment.config,a2bc68e15b498170f9c62cf8c241ddb9476c723e
+Detections/Sample/imProcess_NOBELIUM_SuspiciousRundll32Exec.json,0ac47f62be8d0fe9152367ac42415cb52bd14ae4
+
